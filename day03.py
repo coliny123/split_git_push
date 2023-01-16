@@ -1,4 +1,5 @@
 #while
+
 numbers = [1, 3, 5, 7]
 position = 0
 while position < len(numbers):
